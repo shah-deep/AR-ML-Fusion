@@ -31,6 +31,7 @@ It is a cross-platform web-based tool that can run on a web browser on both Lapt
 10. Moving the sliders to change _**C**_ or _**σ**_ automatically re-trains the model.
 11. Play around with the tool by adding different data points and testing different parameters.
 
+<br />
 
 ## Output
 
