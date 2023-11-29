@@ -37,9 +37,12 @@ It is a cross-platform web-based tool that can run on a web browser on both Lapt
 
 ### 3D Model
 
-![model](./media/model_image.png)
+<!-- ![model](./media/model_image.png) -->
+<img src="./media/model_image.png" alt="model" width="734.5" height="474.5" />
+ 
 
 
 ### Full Application View on Mobile Phone
 
-![full_app](./media/full_ss.jpg)
+<!-- ![full_app](./media/full_ss.jpg) -->
+<img src="./media/full_ss.jpg" alt="full_app" width="393" height="665" />
