@@ -33,3 +33,12 @@ It is a cross-platform web-based tool that can run on a web browser on both Lapt
 
 
 ## Output
+
+### 3D Model
+
+![model](./media/model_image.png)
+
+
+### Full Application View on Mobile Phone
+
+![full_app](./media/full_ss.jpg)
