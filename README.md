@@ -1,8 +1,12 @@
 # AR-ML Fusion
 
   First time here? Go to: [Steps to Run](#steps-to-run)
-
+  
 <br />
+
+This is a tool to Visualize the Machine Learning concept of Support Vector Machines - Radial Basis Function. It trains a model with a dataset containing 2 distinct sets of data points using the SVM Radial kernel. The user can add more points to the data set and change training parameters to re-train the model. 
+
+It is a cross-platform web-based tool that can run on a web browser on both Laptops and Mobile Phones. 
       
 ## Kanji Image Marker 
 
@@ -26,3 +30,6 @@
 9. When model info is visible after pressing the (i) button, you can control the parameters _**C**_ and _**σ**_ with the help of a slider.
 10. Moving the sliders to change _**C**_ or _**σ**_ automatically re-trains the model.
 11. Play around with the tool by adding different data points and testing different parameters.
+
+
+## Output
