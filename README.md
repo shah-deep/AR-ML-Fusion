@@ -7,7 +7,11 @@
 This is a tool to Visualize the Machine Learning concept of Support Vector Machines - Radial Basis Function. It trains a model with a dataset containing 2 distinct sets of data points using the SVM Radial kernel. The user can add more points to the data set and change training parameters to re-train the model. 
 
 It is a cross-platform web-based tool that can run on a web browser on both Laptops and Mobile Phones. It is an Image Marker-based AR application and uses the Kanji Image marker.
-      
+
+
+**Made with ❤️ by Deep Shah at eCampus SJSU**
+
+
 ## Kanji Image Marker 
 
 <br />
