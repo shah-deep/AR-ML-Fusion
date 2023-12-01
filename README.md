@@ -1,4 +1,4 @@
-# AR-ML Fusion
+<!-- # AR-ML Fusion -->
 
 **First time here? Go to: [Steps to Run](#steps-to-run)**
   
