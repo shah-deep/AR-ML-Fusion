@@ -8,7 +8,7 @@ This is a tool to Visualize the Machine Learning concept of Support Vector Machi
 
 It is a cross-platform web-based tool that can run on a web browser on both Laptops and Mobile Phones. It is an Image Marker-based AR application and uses the Kanji Image marker.
 
-
+ 
 **Made with ❤️ at eCampus SJSU**
 
 
